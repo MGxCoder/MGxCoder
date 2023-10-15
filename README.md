@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Manas Gaikwad</h1>
 <h3 align="center">A passionate Programmer And Mobile Application developer from India</h3>
 <p><img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg?w=740"  /></p>
