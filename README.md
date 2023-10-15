@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Manas Gaikwad</h1>
 <h3 align="center">A passionate Programmer And Mobile Application developer from India</h3>
-<p><img align="center" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg?w=740"  /></p>
+<p><img align="center" alt="Coding" width="800" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg?w=740"  /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgxcoder&label=Profile%20views&color=0e75b6&style=flat" alt="mgxcoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgxcoder" alt="mgxcoder" /></a> </p>
